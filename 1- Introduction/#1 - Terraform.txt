@@ -1,0 +1,10 @@
+Introduction Terraform
+    
+    - Infratructure as code
+    - Automation provisioning
+    - Keep State
+    - Infratructure Auditable
+    
+
+    *Ansible, Chef, Puppet: Instalation Configuration
+        - Keep machines in compliance (certain state)
