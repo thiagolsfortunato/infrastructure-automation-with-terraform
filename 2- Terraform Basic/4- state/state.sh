@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#save state in S3 bucket
+
+#configure aws
+aws configure
+
 #init terraform
 terraform init
 
